@@ -1,6 +1,7 @@
-# docker-jupyter-cuda-nvidia-dev template
+# Template: darkmastermindz/docker-jupyter-cuda-nvidia-dev 
 
-Example docker Developer working enviornment for data science development with jupyter notebooks
+Example docker Developer working enviornment for data science development with jupyter notebooks.
+Feel free to add issues for suggestions to improve this
 
 1. Clone this repo and use it as a template
 
