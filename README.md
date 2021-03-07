@@ -4,7 +4,7 @@ Example docker Developer working enviornment for data science development with j
 
 1. Clone this repo and use it as a template
 
-2. Make any nessary changes to Dockerfile if needed, build and run docker image
+2. Make any nessary changes to Dockerfile if needed, build, and run docker image like so:
 
 `docker build -t darkmastermindz/jupyter-cuda-nvidia-dev`
 
