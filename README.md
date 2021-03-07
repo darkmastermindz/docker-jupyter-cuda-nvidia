@@ -9,5 +9,6 @@ Feel free to add issues for suggestions to improve this
 
 `docker build -t darkmastermindz/jupyter-cuda-nvidia-dev`
 
-See how to run with GPU https://docs.docker.com/engine/reference/commandline/run/#access-an-nvidia-gpu
+> See how to run with GPU https://docs.docker.com/engine/reference/commandline/run/#access-an-nvidia-gpu
+
 `docker run -p 8888:8888 darkmastermindz/jupyter-cuda-nvidia-dev`
